@@ -11,6 +11,7 @@ If you still think I'm a good developer,
 you've probably met a very arrogant me on one of the discord servers,  
 furiously trying to prove a completely unviable theory or some other unnecessary bullshit.
 
+[slugomme](https://discord.com) [@ssleert](https://telegram.org)
 discord & telegram: `klvyroot` `@kloveyzstd`
 
 ▼ some of my code examples
