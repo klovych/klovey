@@ -15,7 +15,7 @@ furiously trying to prove a completely unviable theory or some other unnecessary
 discord & telegram: [@kloveyzstd](https://t.me/kloveyzstd)
 
 <details>
-  <summary>▼ some of my code examples</summary>
+  <summary>some of my code examples</summary>
 
   Dude, do you really think I'm going to brag about my code?
 
